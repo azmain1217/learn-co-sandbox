@@ -1,4 +1,4 @@
-var cat = "sleeping"
+var cat = "newspaper"
 
 if (cat === "chilling"){
   console.log("cat is chillin' right now.")
